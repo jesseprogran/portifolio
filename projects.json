@@ -1,0 +1,38 @@
+[
+    {
+      "name": "PetLife",
+      "image": "assets/Captura da Web_1-1-2024_213025_jesseprogran.github.io.jpeg",
+      "tags": ["HTML", "CSS", "Javascript"],
+      "link": "https://github.com/jesseprogran/petVida"
+    },
+      {
+      "name": "DevLink",
+      "image": "assets/Captura da Web_1-1-2024_224523_jesseprogran.github.io.jpeg",
+      "tags": ["HTML", "CSS", "Javascript"],
+      "link": "https://github.com/jesseprogran/projeto-dev-links"
+    },
+      {
+      "name": "NLW-COPA",
+      "image": "assets/preview.jpg",
+      "tags": ["HTML", "CSS", "Javascript"],
+      "link": "https://github.com/jesseprogran/nlw-copa"
+    },
+        {
+        "name": "Peroba Blog",
+        "image": "assets/peroba-blog.jpeg",
+        "tags": ["HTML", "CSS", "Javascript"],
+        "link": "https://github.com/jesseprogran/peroba-blog?tab=readme-ov-file"
+    },
+        {
+        "name": "Conversor de Unidades",
+        "image": "assets/conversor.jpeg",
+        "tags": ["HTML", "CSS", "Javascript"],
+        "link": "https://jesseprogran.github.io/petVida/"
+    },
+        {
+        "name": "Formulário de Contatos",
+        "image": "assets/formulario.jpeg",
+        "tags": ["HTML", "CSS", "Javascript"],
+        "link": "https://github.com/jesseprogran/FORMULARIO_DE_CONTATO?tab=readme-ov-file"
+    }
+  ]
